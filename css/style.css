@@ -6,3 +6,10 @@
   font-style: normal;
 } */
 
+body{
+    font-family: "Nunito", sans-serif;
+}
+
+.t-color-title{
+    color: rgb(211, 67, 112);
+}
