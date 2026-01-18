@@ -13,3 +13,31 @@ body{
 .t-color-title{
     color: rgb(211, 67, 112);
 }
+
+.team-name { font-size: 1.45rem; }   
+.team-role { font-size: 1.25rem; }   
+.team-mail { font-size: 1.25rem; }   
+
+@media (min-width: 768px){
+.team-name { font-size: 0.95rem; }  
+.team-role { font-size: 0.85rem; } 
+.team-mail { font-size: 0.85rem; }   
+}
+
+@media (min-width: 992px){
+.team-name { font-size: 1.25rem; }  
+.team-role { font-size: 1.15rem; } 
+.team-mail { font-size: 1.15rem; }   
+}
+
+@media (min-width: 1200px){
+.team-name { font-size: 0.95rem; }  
+.team-role { font-size: 0.85rem; } 
+.team-mail { font-size: 0.85rem; }   
+}
+
+@media (min-width: 1400px){
+.team-name { font-size: 1.15rem; }  
+.team-role { font-size: 1.05rem; } 
+.team-mail { font-size: 1.05rem; }   
+}
